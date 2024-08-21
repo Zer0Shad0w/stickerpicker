@@ -1,0 +1,8 @@
+{
+  "packs": [
+    "Alpha1918.json",
+    "Jillussy.json",
+    "HansNaziWaifus.json"
+  ],
+  "homeserver_url": "https://matrix-client.matrix.org"
+}
